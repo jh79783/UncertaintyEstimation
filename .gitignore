@@ -6,7 +6,7 @@ ckpt
 .python-version
 config.py
 test_config.py
-.png
+*.png
 .jpg
 *\framework
 RIDet3DAddon
