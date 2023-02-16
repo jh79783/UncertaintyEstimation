@@ -1,0 +1,8 @@
+parameter,Sigma error prob median,Sigma error prob mean,Sigma error ratio median,Sigma error ratio mean
+e_y,0.0042,0.0038,4.74,4.12
+e_x,0.0119,0.0157,5.32,5.66
+e_z,0.0954,0.0868,8.79,8.38
+e_h,0.0016,0.0025,1.56,2.42
+e_w,0.0066,0.0077,4.49,4.76
+e_l,0.0087,0.0093,1.75,1.95
+e_theta,0.0032,0.0030,5.46,5.24
